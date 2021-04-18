@@ -1,0 +1,9 @@
+resultList:
+- caseName : 'case_1_1'
+  result : true
+- caseName : 'case_1_2'
+  result : false
+- caseName : 'case_1_3'
+  result : true
+- caseName : 'case_1_4'
+  result : false
